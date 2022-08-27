@@ -45,3 +45,7 @@ let myIntSet2: Set = [0,2,3,6,7]
 
 //Intersección
 print(myIntSet.intersection(myIntSet2))
+
+
+// union
+// diferencia
