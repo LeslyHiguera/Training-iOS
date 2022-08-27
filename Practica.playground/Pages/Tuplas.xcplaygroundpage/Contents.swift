@@ -11,7 +11,7 @@ var (nombre,apellido,edad,estatura) = personas
 
 nombre
 
-var personasNumbedTuples = (nombre:"Lesly", apellido:"Higuera", edad:22, estatura:1.56)
+var personasNumbedTuples = (nombre: "Lesly", apellido: "Higuera", edad: 22, estatura: 1.56)
 edad
 personasNumbedTuples.nombre
 personasNumbedTuples.edad
