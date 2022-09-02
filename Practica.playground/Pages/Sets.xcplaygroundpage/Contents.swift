@@ -48,4 +48,8 @@ print(myIntSet.intersection(myIntSet2))
 
 
 // union
+print(myIntSet.union(myIntSet2))
+
 // diferencia
+
+print(myIntSet.subtracting(myIntSet2))

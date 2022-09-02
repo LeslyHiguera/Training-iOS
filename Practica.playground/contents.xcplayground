@@ -24,5 +24,7 @@
         <page name='Generics'/>
         <page name='Asociatividad y Operadores avanzados'/>
         <page name='Sets'/>
+        <page name='Algoritmos de coleccion '/>
+        <page name='Otras operaciones para colecciones'/>
     </pages>
 </playground>
